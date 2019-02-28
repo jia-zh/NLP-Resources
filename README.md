@@ -7,7 +7,7 @@ A useful list of NLP(Natural Language Processing) resources
 ## Contents
 - [NLP Toolkit 自然语言工具包](#nlp-toolkit-自然语言工具包)
 - [Corpus 语料库](#corpus-语料库)
-- [NLP Blogs 博客](#nlp-blogs-博客)
+- [NLP Blogs and Course 博客和课程](#nlp-blogs-and-course-博客和课程)
 - [NLP Organizations 学术组织](#nlp-organizations-学术组织)
   
   
@@ -36,14 +36,74 @@ A useful list of NLP(Natural Language Processing) resources
 
   
 ### Corpus 语料库
+
+- [中文 Wikipedia Dump](https://dumps.wikimedia.org/zhwiki/)
   
-### NLP Blogs 博客
+- [人民日报199801标注语料](https://pan.baidu.com/s/10_CQck5mKsKyfpA08slyFA)
+  
+- [Sogou Labs](https://pan.baidu.com/s/10_CQck5mKsKyfpA08slyFA)
+       
+- [中文聊天语料](https://github.com/codemayq/chaotbot_corpus_Chinese) chatterbot、豆瓣多轮、PTT八卦语料、青云语料、电视剧对白语料、贴吧论坛回帖语料、微博语料、小黄鸡语料
+         
+- [领域中文词库](https://github.com/thunlp/THUOCL)
+       
+- [微信公众号语料库](https://github.com/nonamestreet/weixin_public_corpus)
+       
+- [中文谣言微博数据](https://github.com/thunlp/Chinese_Rumor_Dataset)
+  
+- [Tencent AI Lab Embedding Corpus](https://ai.tencent.com/ailab/nlp/embedding.html)
+  
+- [Word2vec Slim](https://github.com/eyaler/word2vec-slim) word2vec Google News model slimmed down to 300k English words
+    
+- [Chinese Word2vec Model](https://github.com/to-shimo/chinese-word2vec)
+     
+- [Chinese Word Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+  
+- [NLP_Chinese_Corpus](https://github.com/brightmart/nlp_chinese_corpus) 维基百科中文词条、新闻语料、百科问答、社区问答、翻译语料
+       
+- [中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
+  
+- [Chinese Word Ordering Errors Detection and Correction Corpus](http://nlg.csie.ntu.edu.tw/nlpresource/woe_corpus/)
+  
+- [中文文本分类数据集THUCNews](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews)
+   
+- [公司名语料库](https://github.com/wainshine/Company-Names-Corpus)
+  
+- [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus)
+     
+- [中文简称词库](https://github.com/zhangyics/Chinese-abbreviation-dataset)
+         
+- [对联数据集](https://github.com/wb14123/couplet-dataset)
+  
+- [无忧无虑中学语文网](http://jyc.5156edu.com/) 常见中文词语工具，包括近义词、反义词、汉字拼音转换、简繁转换等
+  
+- [EmotionLexicon](https://github.com/songkaisong/EmotionLexicon) 细粒度情感词典、网络词汇、否定词典、停用词典
+  
+- [Chinese_Dictionary](https://github.com/guotong1988/chinese_dictionary) 同义词表、反义词表、否定词表
+  
+- [Synonyms](https://github.com/huyingxi/Synonyms) 中文近义词工具包
+      
+- [NLP太难了系列](https://github.com/fighting41love/hardNLU)
+  
+### NLP Blogs and Course 博客和课程
+  
+- NLP Blogs博客
 
-- [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
+  - [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
 
-- [剑指汉语自然语言处理](https://blog.csdn.net/FontThrone/column/info/16265)
+  - [剑指汉语自然语言处理](https://blog.csdn.net/FontThrone/column/info/16265)
 
-- [Jay Alammar](http://jalammar.github.io/)
+  - [natural language processing blog](https://nlpers.blogspot.com/)
+
+  - [Google AI Blog](https://ai.googleblog.com/)
+  
+  - [Language Log](http://languagelog.ldc.upenn.edu/nll/)
+
+  - [Jay Alammar](http://jalammar.github.io/)
+  
+- NLP Course课程
+
+  - [斯坦福CS224d](http://cs224d.stanford.edu/syllabus.html)
   
 ### NLP Organizations 学术组织
 
@@ -242,7 +302,12 @@ A useful list of NLP(Natural Language Processing) resources
   - [Statistical Natural Language Processing Group at the Institute for Computational Linguistics at Heidelberg University](http://www.cl.uni-heidelberg.de/statnlpgroup/)
 
   - [NLP Research at the University of Helsinki](https://blogs.helsinki.fi/language-technology/)
-
-
+    
+    
+    
+### Reference
+-[Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
   
-
+-[FunNLP](https://github.com/fighting41love/funNLP)  
+  
+-[国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553) 
