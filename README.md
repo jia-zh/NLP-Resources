@@ -1,4 +1,6 @@
 # NLP-Resources
+[![](https://img.shields.io/badge/update-everyday-success.svg)](https://github.com/jia-zh/NLP-Resources)
+  
 A useful list of NLP(Natural Language Processing) resources 
   
 自然语言处理的相关资源列表，持续更新
@@ -78,7 +80,7 @@ A useful list of NLP(Natural Language Processing) resources
      
 - [Chinese Word Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
   
-- [NLP_Chinese_Corpus](https://github.com/brightmart/nlp_chinese_corpus) 维基百科中文词条、新闻语料、百科问答、社区问答、翻译语料
+- [NLP Chinese Corpus](https://github.com/brightmart/nlp_chinese_corpus) 维基百科中文词条、新闻语料、百科问答、社区问答、翻译语料
        
 - [中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 
@@ -176,6 +178,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [Zh NER TF](https://github.com/fighting41love/zh-NER-TF) A very simple BiLSTM-CRF model for Chinese Named Entity Recognition 中文命名实体识别 (TensorFlow)
   
   - [BERT BiLSTM CRF NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning
+  
+  - [Text Info Exp](https://github.com/Roshanson/TextInfoExp) TF-IDF、文本分类、聚类、词向量、情感识别、关系抽取等
 
 <a name="knowledge-graph"></a>
 
