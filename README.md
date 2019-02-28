@@ -110,7 +110,9 @@ A useful list of NLP(Natural Language Processing) resources
   
 ### NLP Blogs and Courses 博客和课程
   
-- NLP Blogs 博客<a name="nlp-blogs"></a>
+<a name="nlp-blogs"></a>
+  
+- NLP Blogs 博客
 
   - [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
   
@@ -126,7 +128,9 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [Jay Alammar](http://jalammar.github.io/)
   
-- NLP Courses 课程<a name="nlp-courses"></a>
+<a name="nlp-courses"></a>
+  
+- NLP Courses 课程
 
   - [斯坦福CS224d](http://cs224d.stanford.edu/syllabus.html)
   
@@ -141,7 +145,9 @@ A useful list of NLP(Natural Language Processing) resources
 
 - [NLP Conference Calender](http://cs.rochester.edu/~omidb/nlpcalendar/)
   
-- 中国大陆地区高校/研究所<a name="china-school"></a>
+<a name="china-school"></a>
+  
+- 中国大陆地区高校/研究所
 
   - [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh)[Github](https://github.com/thunlp)
 
@@ -179,7 +185,9 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [郑州大学自然语言处理实验室](http://nlp.zzu.edu.cn/)
   
-- 中国大陆地区企业<a name="china-company"></a>
+<a name="china-company"></a>
+  
+- 中国大陆地区企业
 
   - [微软亚洲研究院自然语言计算组](https://www.microsoft.com/en-us/research/group/natural-language-computing/)
 
@@ -191,7 +199,9 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [头条人工智能实验室（Toutiao AI Lab）](http://lab.toutiao.com/)
   
-- 中国香港/澳门/台湾地区<a name="china-hmt"></a>
+<a name="china-hmt"></a>
+  
+- 中国香港/澳门/台湾地区
   
   - [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/)（香港中文大学文本挖掘组）
 
@@ -219,7 +229,9 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [The University of Melbourne NLP Group](http://hum.csse.unimelb.edu.au/nlp-group/)（澳大利亚墨尔本大学自然语言处理组）
 
-- 北美地区<a name="north-america"></a>
+<a name="north-america"></a>
+  
+- 北美地区
 
   - [Natural Language Processing - Research at Google](https://research.google.com/pubs/NaturalLanguageProcessing.html) （Google自然语言处理组）
 
@@ -285,7 +297,9 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Natural Language Processing (NLP) group at University of British Columbia](https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/)（不列颠哥伦比亚大学自然语言处理组）
   
-- 欧洲地区<a name="europe"></a>
+<a name="europe"></a>
+  
+- 欧洲地区
   
   - [Natural Language and Information Processing Research Group at University of Cambridge](http://www.cl.cam.ac.uk/research/nl/)（英国剑桥大学自然语言和信息处理组）
   
