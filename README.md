@@ -6,10 +6,19 @@ A useful list of NLP(Natural Language Processing) resources
   
 ## Contents
 - [NLP Toolkit 自然语言工具包](#nlp-toolkit-自然语言工具包)
-- [Corpus 语料库](#corpus-语料库)
-- [NLP Blogs and Course 博客和课程](#nlp-blogs-and-course-博客和课程)
+- [NLP Corpus 自然语言处理语料库](#nlp-corpus-自然语言处理语料库)
+- [ML and DL 机器学习和深度学习](#ml-and-dl-机器学习和深度学习)
+- [NLP Technology 自然语言处理相关技术](#nlp-technology-自然语言处理相关技术)
+- [NLP Blogs and Courses 博客和课程](#nlp-blogs-and-courses-博客和课程)
+  - [NLP Blogs 博客](#nlp-blogs)
+  - [NLP Courses 博客](#nlp-courses)
 - [NLP Organizations 学术组织](#nlp-organizations-学术组织)
-  
+  - [中国大陆地区高校/研究所](#china-school)
+  - [中国大陆地区企业](#china-company)
+  - [中国香港/澳门/台湾地区](#china-hmt)
+  - [新加坡/日本/以色列/澳大利亚](#east-asia)
+  - [北美地区](#north-america)
+  - [欧洲地区](#europe)
   
   
 ### NLP-Toolkit 自然语言工具包
@@ -35,27 +44,27 @@ A useful list of NLP(Natural Language Processing) resources
 - [FudanNLP](https://github.com/FudanNLP/fnlp)：中文NLP工具包、机器学习算法和数据集，支持**Java**，by 复旦
 
   
-### Corpus 语料库
+### NLP Corpus 自然语言处理语料库
 
 - [中文 Wikipedia Dump](https://dumps.wikimedia.org/zhwiki/)
   
 - [人民日报199801标注语料](https://pan.baidu.com/s/10_CQck5mKsKyfpA08slyFA)
   
-- [Sogou Labs](https://pan.baidu.com/s/10_CQck5mKsKyfpA08slyFA)
+- [Sogou Labs](http://www.sogou.com/labs/resource/list_pingce.php) 互联网词库、中文词语搭配库、全网新闻数据（2012）、搜狐新闻数据（2012）、互联网语料库、链接关系库等
        
 - [中文聊天语料](https://github.com/codemayq/chaotbot_corpus_Chinese) chatterbot、豆瓣多轮、PTT八卦语料、青云语料、电视剧对白语料、贴吧论坛回帖语料、微博语料、小黄鸡语料
          
-- [领域中文词库](https://github.com/thunlp/THUOCL)
+- [领域中文词库](https://github.com/thunlp/THUOCL) IT、财经、成语、地名、历史名人、诗词、医学、饮食、法律、汽车、动物
          
-- [汉语词库](http://www.hankcs.com/nlp/corpus/tens-of-millions-of-giant-chinese-word-library-share.html)
+- [汉语词库](http://www.hankcs.com/nlp/corpus/tens-of-millions-of-giant-chinese-word-library-share.html) 各种类型词库如人名库、金融专业相关词、政府机关团体机构大全等
 
-- [中文依存语料库](http://www.hankcs.com/nlp/corpus/chinese-treebank.html)
+- [中文依存语料库](http://www.hankcs.com/nlp/corpus/chinese-treebank.html) 第二届自然语言处理与中文计算会议（NLP&CC 2013）的技术评测中文树库语料
        
-- [微信公众号语料库](https://github.com/nonamestreet/weixin_public_corpus)
+- [微信公众号语料库](https://github.com/nonamestreet/weixin_public_corpus) 网络抓取的微信公众号的文章，包括微信公众号名字、微信公众号ID、题目和正文
        
-- [中文谣言微博数据](https://github.com/thunlp/Chinese_Rumor_Dataset)
+- [中文谣言微博数据](https://github.com/thunlp/Chinese_Rumor_Dataset) 从新浪微博不实信息举报平台抓取的中文谣言数据
   
-- [Tencent AI Lab Embedding Corpus](https://ai.tencent.com/ailab/nlp/embedding.html)
+- [Tencent AI Lab Embedding Corpus](https://ai.tencent.com/ailab/nlp/embedding.html) A corpus on continuous distributed representations of Chinese words and phrases
   
 - [Word2vec Slim](https://github.com/eyaler/word2vec-slim) word2vec Google News model slimmed down to 300k English words
     
@@ -69,11 +78,11 @@ A useful list of NLP(Natural Language Processing) resources
   
 - [Chinese Word Ordering Errors Detection and Correction Corpus](http://nlg.csie.ntu.edu.tw/nlpresource/woe_corpus/)
   
-- [中文文本分类数据集THUCNews](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews)
+- [中文文本分类数据集THUCNews](http://thuctc.thunlp.org/#%E4%B8%AD%E6%96%87%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86THUCNews) 根据新浪新闻RSS订阅频道2005~2011年间的历史数据筛选过滤生成，包含74万篇新闻文档
    
-- [公司名语料库](https://github.com/wainshine/Company-Names-Corpus)
+- [公司名语料库](https://github.com/wainshine/Company-Names-Corpus) 公司名语料库、机构名语料库、公司简称、品牌词等
   
-- [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus)
+- [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) 中文常见人名、中文古代人名、日文人名、翻译人名、中文姓氏、中文称呼、成语词典
      
 - [中文简称词库](https://github.com/zhangyics/Chinese-abbreviation-dataset)
          
@@ -89,9 +98,19 @@ A useful list of NLP(Natural Language Processing) resources
       
 - [NLP太难了系列](https://github.com/fighting41love/hardNLU)
   
-### NLP Blogs and Course 博客和课程
+### ML and DL 机器学习和深度学习
+
+- [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
   
-- NLP Blogs博客
+- [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use
+
+- [Awesome pytorch List](https://github.com/taki0112/Tensorflow-Cookbook) A comprehensive list of pytorch related content such as different models, implementations. helper libraries, tutorials etc.
+
+### NLP Technology 自然语言处理相关技术
+  
+### NLP Blogs and Courses 博客和课程
+  
+- NLP Blogs 博客<a name="nlp-blogs"></a>
 
   - [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
   
@@ -107,7 +126,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [Jay Alammar](http://jalammar.github.io/)
   
-- NLP Course课程
+- NLP Courses 课程<a name="nlp-courses"></a>
 
   - [斯坦福CS224d](http://cs224d.stanford.edu/syllabus.html)
   
@@ -116,13 +135,13 @@ A useful list of NLP(Natural Language Processing) resources
   - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
   
 ### NLP Organizations 学术组织
-*排名不分先后，收集不全，欢迎完善*
+***排名不分先后，收集不全，欢迎完善***
 
 - [ACL Anthology](https://aclanthology.info/)
 
 - [NLP Conference Calender](http://cs.rochester.edu/~omidb/nlpcalendar/)
   
-- 中国大陆地区高校/研究所
+- 中国大陆地区高校/研究所<a name="china-school"></a>
 
   - [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh)[Github](https://github.com/thunlp)
 
@@ -160,7 +179,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [郑州大学自然语言处理实验室](http://nlp.zzu.edu.cn/)
   
-- 中国大陆地区高校/研究所
+- 中国大陆地区企业<a name="china-company"></a>
 
   - [微软亚洲研究院自然语言计算组](https://www.microsoft.com/en-us/research/group/natural-language-computing/)
 
@@ -172,7 +191,7 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [头条人工智能实验室（Toutiao AI Lab）](http://lab.toutiao.com/)
   
-- 中国香港/澳门/台湾地区：
+- 中国香港/澳门/台湾地区<a name="china-hmt"></a>
   
   - [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/)（香港中文大学文本挖掘组）
 
@@ -184,7 +203,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [National Taiwan University NLP Lab](http://nlg.csie.ntu.edu.tw/)（台湾大学自然语言处理实验室）
 
-- 新加坡/日本/以色列/澳大利亚：
+- 新加坡/日本/以色列/澳大利亚<a name="east-asia"></a>
 
   - [NUS Natural Language Processing Group](http://www.comp.nus.edu.sg/~nlp/index.html)（新加坡国立大学自然语言处理组）
 
@@ -200,7 +219,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [The University of Melbourne NLP Group](http://hum.csse.unimelb.edu.au/nlp-group/)（澳大利亚墨尔本大学自然语言处理组）
 
-- 北美地区：
+- 北美地区<a name="north-america"></a>
 
   - [Natural Language Processing - Research at Google](https://research.google.com/pubs/NaturalLanguageProcessing.html) （Google自然语言处理组）
 
@@ -266,7 +285,7 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Natural Language Processing (NLP) group at University of British Columbia](https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/)（不列颠哥伦比亚大学自然语言处理组）
   
-- 欧洲地区：
+- 欧洲地区<a name="europe"></a>
   
   - [Natural Language and Information Processing Research Group at University of Cambridge](http://www.cl.cam.ac.uk/research/nl/)（英国剑桥大学自然语言和信息处理组）
   
