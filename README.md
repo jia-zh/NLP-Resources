@@ -116,7 +116,7 @@ A useful list of NLP(Natural Language Processing) resources
   - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
   
 ### NLP Organizations 学术组织
-*排名不分先后，收集不全，欢迎留言完善*
+*排名不分先后，收集不全，欢迎完善*
 
 - [ACL Anthology](https://aclanthology.info/)
 
@@ -268,47 +268,47 @@ A useful list of NLP(Natural Language Processing) resources
   
 - 欧洲地区：
   
-  - [Natural Language and Information Processing Research Group at University of Cambridge](http://www.cl.cam.ac.uk/research/nl/)
+  - [Natural Language and Information Processing Research Group at University of Cambridge](http://www.cl.cam.ac.uk/research/nl/)（英国剑桥大学自然语言和信息处理组）
   
-  - [The Computational Linguistics Group at Oxford University](http://www.clg.ox.ac.uk/)
+  - [The Computational Linguistics Group at Oxford University](http://www.clg.ox.ac.uk/)（英国牛津大学计算语言学组）
   
-  - [Human Language Technology and Pattern Recognition Group at the RWTH Aachen](https://www-i6.informatik.rwth-aachen.de/)
+  - [Human Language Technology and Pattern Recognition Group at the RWTH Aachen](https://www-i6.informatik.rwth-aachen.de/)（德国亚琛工业大学人类语言技术与模式识别组）
   
-  - [The Natural Language Processing Group at the University of Edinburgh (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/)
+  - [The Natural Language Processing Group at the University of Edinburgh (EdinburghNLP)](http://edinburghnlp.inf.ed.ac.uk/)（英国爱丁堡大学自然语言处理研究组）
   
-  - [Statistical Machine Translation Group at the University of Edinburgh](http://www.statmt.org/ued/?n=Public.HomePage)
+  - [Statistical Machine Translation Group at the University of Edinburgh](http://www.statmt.org/ued/?n=Public.HomePage)（英国爱丁堡大学统计机器翻译组）
   
-  - [Natural Language Processing Research Group at The University of Sheffield](http://nlp.shef.ac.uk/)
+  - [Natural Language Processing Research Group at The University of Sheffield](http://nlp.shef.ac.uk/)（英国谢菲尔德大学自然语言处理研究组）
   
-  - [Speech Research Group at University of Cambridge](http://mi.eng.cam.ac.uk/Main/Speech/)
+  - [Speech Research Group at University of Cambridge](http://mi.eng.cam.ac.uk/Main/Speech/)（英国剑桥大学语音研究组）
   
-  - [Statistical Machine Translation Group at the University of Cambridge](http://divf.eng.cam.ac.uk/smt)
+  - [Statistical Machine Translation Group at the University of Cambridge](http://divf.eng.cam.ac.uk/smt)（英国剑桥大学统计机器翻译组）
   
-  - [Computational Linguistics group at Uppsala University](http://www.lingfil.uu.se/forskning/datorlingvistik/?languageId=1)
+  - [Computational Linguistics group at Uppsala University](http://www.lingfil.uu.se/forskning/datorlingvistik/?languageId=1)（瑞典乌普萨拉大学计算语言学组）
 
-  - [The Center for Information and Language Processing at University of Munich](http://www.cis.uni-muenchen.de/ueber_uns/)
+  - [The Center for Information and Language Processing at University of Munich](http://www.cis.uni-muenchen.de/ueber_uns/)（德国慕尼黑大学信息与语言处理中心）
 
-  - [National Centre for Language Technology at Dublin City University](http://www.nclt.dcu.ie/)
+  - [National Centre for Language Technology at Dublin City University](http://www.nclt.dcu.ie/)（爱尔兰都柏林城市大学国家语言技术中心）
 
-  - [The National Centre for Text Mining (NaCTeM) at University of Manchester](http://nactem.ac.uk/)
+  - [The National Centre for Text Mining (NaCTeM) at University of Manchester](http://nactem.ac.uk/)（英国曼彻斯特大学国家文本挖掘中心）
 
-  - [The Information and Language Processing Systems group at the University of Amsterdam](http://ilps.science.uva.nl/)
+  - [The Information and Language Processing Systems group at the University of Amsterdam](http://ilps.science.uva.nl/)（荷兰阿姆斯特丹大学信息与语言处理系统组）
 
-  - [Institute of Formal and Applied Linguistics at Charles University](http://ufal.mff.cuni.cz/)
+  - [Institute of Formal and Applied Linguistics at Charles University](http://ufal.mff.cuni.cz/)（捷克查理大学语言学应用与规范研究所）
 
-  - [DFKI Language Technology Lab](https://www.dfki.de/lt/)
+  - [DFKI Language Technology Lab](https://www.dfki.de/lt/)（德国人工智能研究中心自然语言处理组）
 
-  - [IXA in University of the Basque Country](http://ixa.eus/)
+  - [IXA in University of the Basque Country](http://ixa.eus/)（西班牙巴斯克大学自然语言处理组）
 
-  - [Statistical Natural Language Processing Group at the Institute for Computational Linguistics at Heidelberg University](http://www.cl.uni-heidelberg.de/statnlpgroup/)
+  - [Statistical Natural Language Processing Group at the Institute for Computational Linguistics at Heidelberg University](http://www.cl.uni-heidelberg.de/statnlpgroup/)（德国海德堡大学计算语言学研究所统计自然语言处理组）
 
-  - [NLP Research at the University of Helsinki](https://blogs.helsinki.fi/language-technology/)
+  - [NLP Research at the University of Helsinki](https://blogs.helsinki.fi/language-technology/)（芬兰赫尔辛基大学自然语言处理组）
     
     
     
 ### Reference
--[Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
+- [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
   
--[FunNLP](https://github.com/fighting41love/funNLP)  
+- [FunNLP](https://github.com/fighting41love/funNLP)  
   
--[国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553) 
+- [国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553) 
