@@ -46,6 +46,10 @@ A useful list of NLP(Natural Language Processing) resources
 - [中文聊天语料](https://github.com/codemayq/chaotbot_corpus_Chinese) chatterbot、豆瓣多轮、PTT八卦语料、青云语料、电视剧对白语料、贴吧论坛回帖语料、微博语料、小黄鸡语料
          
 - [领域中文词库](https://github.com/thunlp/THUOCL)
+         
+- [汉语词库](http://www.hankcs.com/nlp/corpus/tens-of-millions-of-giant-chinese-word-library-share.html)
+
+- [中文依存语料库](http://www.hankcs.com/nlp/corpus/chinese-treebank.html)
        
 - [微信公众号语料库](https://github.com/nonamestreet/weixin_public_corpus)
        
@@ -90,6 +94,8 @@ A useful list of NLP(Natural Language Processing) resources
 - NLP Blogs博客
 
   - [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
+  
+  - [hankcs 码农场](http://www.hankcs.com/)
 
   - [剑指汉语自然语言处理](https://blog.csdn.net/FontThrone/column/info/16265)
 
@@ -105,7 +111,12 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [斯坦福CS224d](http://cs224d.stanford.edu/syllabus.html)
   
+  - [Oxford-CS-Deepnlp-2017](https://github.com/oxford-cs-deepnlp-2017)
+  
+  - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
+  
 ### NLP Organizations 学术组织
+*排名不分先后，收集不全，欢迎留言完善*
 
 - [ACL Anthology](https://aclanthology.info/)
 
@@ -175,95 +186,85 @@ A useful list of NLP(Natural Language Processing) resources
 
 - 新加坡/日本/以色列/澳大利亚：
 
-  - [NUS Natural Language Processing Group](http://www.comp.nus.edu.sg/~nlp/index.html)
-  
-  - [NLP at Singapore University of Technology and Design](http://people.sutd.edu.sg/~yue_zhang/)
-  
-  - [NLP and Big Data Research Group at Singapore University of Technology and Design](http://www.statnlp.org/)  
-  
-  - [NLP Research Group at the Nanyang Technological University](https://ntunlpsg.github.io/)
-  
-  - [Advanced Translation Technology Laboratory at National Institute of Information and Communications Technology](http://att-astrec.nict.go.jp/en/)
-  
-  - [Nakayama Laboratory at University of Tokyo](http://www.nlab.ci.i.u-tokyo.ac.jp/index-e.html)  
-  
-  - [Natural Language Processing Lab at Bar-Ilan University](http://u.cs.biu.ac.il/~nlp/)  
+  - [NUS Natural Language Processing Group](http://www.comp.nus.edu.sg/~nlp/index.html)（新加坡国立大学自然语言处理组）
 
-  - [The University of Melbourne NLP Group](http://hum.csse.unimelb.edu.au/nlp-group/)       
+  - [NLP and Big Data Research Group in the ISTD pillar at the Singapore University of Technology and Design](http://www.statnlp.org/) （新加坡科技设计大学自然语言处理和大数据研究组） 
+  
+  - [NLP Research Group at the Nanyang Technological University](https://ntunlpsg.github.io/)（南洋理工大学自然语言处理组）
+  
+  - [Advanced Translation Technology Laboratory at National Institute of Information and Communications Technology](http://att-astrec.nict.go.jp/en/)（日本情报通讯研究所高级翻译技术实验室）
+  
+  - [Nakayama Laboratory at University of Tokyo](http://www.nlab.ci.i.u-tokyo.ac.jp/index-e.html) （东京大学中山实验室） 
+  
+  - [Natural Language Processing Lab at Bar-Ilan University](http://u.cs.biu.ac.il/~nlp/)  （以色列巴伊兰大学自然语言处理实验室）
+
+  - [The University of Melbourne NLP Group](http://hum.csse.unimelb.edu.au/nlp-group/)（澳大利亚墨尔本大学自然语言处理组）
 
 - 北美地区：
 
-  - [Natural Language Processing - Research at Google](https://research.google.com/pubs/NaturalLanguageProcessing.html) 
+  - [Natural Language Processing - Research at Google](https://research.google.com/pubs/NaturalLanguageProcessing.html) （Google自然语言处理组）
 
-  - [The Redmond-based Natural Language Processing group](http://research.microsoft.com/en-us/groups/nlp/) 
+  - [The Redmond-based Natural Language Processing group](http://research.microsoft.com/en-us/groups/nlp/) （微软自然语言处理组）
 
-  - [Facebook AI Research (FAIR)](https://research.fb.com)  
+  - [Facebook AI Research (FAIR)](https://research.fb.com) （Facebook AI 研究部）
 
-  - [Thomas J. Watson Research Center -IBMResearch](http://researchweb.watson.ibm.com/labs/watson/index.shtml)  
+  - [IBM Thomas J. Watson Research Center](http://researchweb.watson.ibm.com/labs/watson/index.shtml)（IBM Thomas J. Watson研究中心）
 
-  - [The Stanford Natural Language Processing Group](http://nlp.stanford.edu/) 
+  - [The Stanford Natural Language Processing Group](http://nlp.stanford.edu/) （斯坦福大学自然语言处理组）
   
-  - [The Berkeley Natural Language Processing Group](http://nlp.cs.berkeley.edu/index.shtml)
+  - [The Berkeley Natural Language Processing Group](http://nlp.cs.berkeley.edu/index.shtml)（伯克利加州大学自然语言处理组）
   
-  - [Natural Language Processing research at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi)
+  - [Natural Language Processing research at Columbia University](http://www1.cs.columbia.edu/nlp/index.cgi)（哥伦比亚大学自然语言处理组）
   
-  - [The Language Technologies Institute (LTI) at Carnegie Mellon University](http://www.lti.cs.cmu.edu/)
+  - [Graham Neubig's lab at the Language Technologies Instititute of Carnegie Mellon University](http://www.cs.cmu.edu/~neulab/) （卡内基梅隆大学语言技术研究所Graham Neubig实验室）
   
-  - [Graham Neubig's lab at the Language Technologies Instititute of Carnegie Mellon University](http://www.cs.cmu.edu/~neulab/) 
+  - [RPI Blender Lab](http://nlp.cs.rpi.edu/)（伦斯勒理工学院Blender Lab）
   
-  - [Algorithms for Computational Linguistics at City University of New York](http://acl.cs.qc.edu/)
+  - [UC Santa Barbara Natural Language Processing Group](http://nlp.cs.ucsb.edu/)（加州大学圣巴巴拉分校自然语言处理组）
   
-  - [Algorithms for Computational Linguistics at Oregon State University](http://web.engr.oregonstate.edu/~huanlian/)
+  - [The Natural Language Group at the USC Information Sciences Institute](http://nlg.isi.edu/) （南加利福尼亚大学信息科学研究所自然语言处理组）
   
-  - [RPI Blender Lab](http://nlp.cs.rpi.edu/)
+  - [Natural Language Processing @USC](https://cl.usc.edu/) （南加利福尼亚大学自然语言处理组）
   
-  - [UC Santa Barbara Natural Language Processing Group](http://nlp.cs.ucsb.edu/)
+  - [Natural Language Processing Group at University of Notre Dame](http://nlp.nd.edu/) （圣母大学自然语言处理组）
   
-  - [The Natural Language Group at USC/ISI](http://nlg.isi.edu/) 
+  - [Artificial Intelligence Research Group at Harvard](http://www.eecs.harvard.edu/ai/) （哈佛大学人工智能研究组）
   
-  - [Natural Language Processing @USC](https://cl.usc.edu/) 
+  - [The Harvard natural-language processing group](http://nlp.seas.harvard.edu/) （哈佛大学自然语言处理组）
   
-  - [Natural Language Processing Group at University of Notre Dame](http://nlp.nd.edu/) 
+  - [Computational Linguistics and Information Processing at Maryland](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) （马里兰大学计算语言学和信息处理实验室）
   
-  - [Artificial Intelligence Research Group at Harvard](http://www.eecs.harvard.edu/ai/) 
+  - [Language and Speech Processing at Johns Hopkins University](http://www.clsp.jhu.edu/about-clsp/)（约翰斯·霍普金斯大学语言语音处理实验室）
   
-  - [The Harvard natural-language processing group](http://nlp.seas.harvard.edu/) 
+  - [Human Language Technology Center of Excellence at Johns Hopkins University](http://hltcoe.jhu.edu/)（约翰斯·霍普金斯大学人类语言技术卓越中心）
   
-  - [Computational Linguistics and Information Processing at Maryland](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) 
+  - [Machine Translation Group at The Johns Hopkins University](http://www.statmt.org/jhu/)（约翰斯·霍普金斯大学机器翻译组）
   
-  - [Language and Speech Processing at Johns Hopkins University](http://www.clsp.jhu.edu/about-clsp/)
+  - [Machine Translation Research at Rochester](https://www.cs.rochester.edu/~gildea/mt/)（罗切斯特大学机器翻译组）
   
-  - [Human Language Technology Center of Excellence at Johns Hopkins University](http://hltcoe.jhu.edu/)
+  - [NLP @ University of Illinois at Urbana-Champaign](http://nlp.cs.illinois.edu/)（伊利诺伊大学厄巴纳-香槟分校自然语言处理组）
   
-  - [Machine Translation Group at The Johns Hopkins University](http://www.statmt.org/jhu/)
+  - [UIC Natural Language Processing Laboratory](http://nlp.cs.uic.edu/)（伊利诺伊大学芝加哥分校自然语言处理组）
   
-  - [Machine Translation Research at Rochester](https://www.cs.rochester.edu/~gildea/mt/)
+  - [Human Language Technology Research Institute at The University of Texas at Dallas](http://www.hlt.utdallas.edu/)（德克萨斯大学达拉斯分校人类语言技术研究所
   
-  - [NLP @ University of Illinois at Urbana-Champaign](http://nlp.cs.illinois.edu/)
+  - [Natural Language Processing Group at MIT CSAIL](http://nlp.csail.mit.edu/)（麻省理工学院自然语言处理组）
   
-  - [UIC Natural Language Processing Laboratory](http://nlp.cs.uic.edu/)
+  - [Natural Language Processing Group at Texas A&M University](http://nlp.cs.tamu.edu/)（德克萨斯A&M大学自然语言处理组）
   
-  - [Human Language Technology Research Institute at The University of Texas at Dallas](http://www.hlt.utdallas.edu/)
+  - [The Natural Language Processing Group at Northeastern University](https://nlp.ccis.northeastern.edu/)（东北大学自然语言处理组）
   
-  - [Natural Language Processing Group at MIT CSAIL](http://nlp.csail.mit.edu/)
+  - [Cornell NLP group](https://confluence.cornell.edu/display/NLP/Home/)（康奈尔大学自然语言处理组）
   
-  - [Human Language Technology Research Institute at University of Texas at Dallas](http://www.hlt.utdallas.edu/)
+  - [Natural Language Processing group at University Of Washington](https://www.cs.washington.edu/research/nlp)（华盛顿大学自然语言处理组）
   
-  - [Natural Language Processing Group at Texas A&M University](http://nlp.cs.tamu.edu/)
+  - [Natural Language Processing Research Group at University of Utah](https://www.cs.utah.edu/nlp/)（犹他大学自然语言处理组）
   
-  - [The Natural Language Processing Group at Northeastern University](https://nlp.ccis.northeastern.edu/)
+  - [Natural Language Processing and Information Retrieval group at University of Pittsburgh](http://www.isp.pitt.edu/research/nlp-info-retrieval-group)（匹兹堡大学自然语言处理和信息检索小组）
   
-  - [Cornell NLP group](https://confluence.cornell.edu/display/NLP/Home/)
+  - [Brown Laboratory for Linguistic Information Processing (BLLIP)](http://bllip.cs.brown.edu/)（布朗大学布朗语言信息处理实验室）
   
-  - [Natural Language Processing group at University Of Washington](https://www.cs.washington.edu/research/nlp)
-  
-  - [Natural Language Processing Research Group at University of Utah](https://www.cs.utah.edu/nlp/)
-  
-  - [Natural Language Processing and Information Retrieval group at University of Pittsburgh](http://www.isp.pitt.edu/research/nlp-info-retrieval-group)
-  
-  - [Brown Laboratory for Linguistic Information Processing (BLLIP)](http://bllip.cs.brown.edu/)
-  
-  - [Natural Language Processing (NLP) group at University of British Columbia](https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/)
+  - [Natural Language Processing (NLP) group at University of British Columbia](https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/)（不列颠哥伦比亚大学自然语言处理组）
   
 - 欧洲地区：
   
