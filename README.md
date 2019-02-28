@@ -9,6 +9,12 @@ A useful list of NLP(Natural Language Processing) resources
 - [NLP Corpus 自然语言处理语料库](#nlp-corpus-自然语言处理语料库)
 - [ML and DL 机器学习和深度学习](#ml-and-dl-机器学习和深度学习)
 - [NLP Technology 自然语言处理相关技术](#nlp-technology-自然语言处理相关技术)
+  - [Bert Model](#bert-model)
+  - [Text Modeling](#text-modeling)
+  - [Text Similarity](#text-similarity)
+  - [Information Extraction](#information-extraction)
+  - [Knowledge Graph](#knowledge-graph)
+  - [Reading Comprehension](#reading-comprehension)
 - [NLP Blogs and Courses 博客和课程](#nlp-blogs-and-courses-博客和课程)
   - [NLP Blogs 博客](#nlp-blogs)
   - [NLP Courses 博客](#nlp-courses)
@@ -75,6 +81,8 @@ A useful list of NLP(Natural Language Processing) resources
 - [NLP_Chinese_Corpus](https://github.com/brightmart/nlp_chinese_corpus) 维基百科中文词条、新闻语料、百科问答、社区问答、翻译语料
        
 - [中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
+
+- [Chinese RC Dataset](https://github.com/ymcui/Chinese-RC-Dataset) A Chinese Reading Comprehension Dataset
   
 - [Chinese Word Ordering Errors Detection and Correction Corpus](http://nlg.csie.ntu.edu.tw/nlpresource/woe_corpus/)
   
@@ -105,8 +113,83 @@ A useful list of NLP(Natural Language Processing) resources
 - [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use
 
 - [Awesome pytorch List](https://github.com/taki0112/Tensorflow-Cookbook) A comprehensive list of pytorch related content such as different models, implementations. helper libraries, tutorials etc.
+  
+- [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978) PyTorch代码的组织和结构设计
 
 ### NLP Technology 自然语言处理相关技术
+
+<a name="bert-model"></a>
+
+- Bert Model
+  
+  - [BERT](https://github.com/google-research/bert) TensorFlow code and pre-trained models for [BERT](https://arxiv.org/abs/1810.04805)
+  
+  - [Bert as Service](https://github.com/hanxiao/bert-as-service) Using BERT model as a sentence encoding service, i.e. mapping a variable-length sentence to a fixed-length vector
+  
+  - [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) A PyTorch implementation of Google AI's BERT model provided with Google's pre-trained models, examples and utilities.
+  
+  - [BERT Classification Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial)
+
+  - [BERT Utils](https://github.com/terrifyzhao/bert-utils) BERT生成句向量，BERT做文本分类、文本相似度计算
+
+  - [BERT BiLSTM CRF NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning
+
+  - [BERT Chinese NER](https://github.com/ProHiryu/bert-chinese-ner) 使用预训练语言模型BERT做中文NER
+
+<a name="text-modeling"></a>
+
+- Text Modeling
+  
+  - [Self Attention Mechanism](https://github.com/roomylee/self-attentive-emb-tf) Simple Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)" (ICLR 2017) 
+  
+  - [Encoder Decoder](https://github.com/jacoxu/encoder_decoder) Four styles of encoder decoder model by Python, Theano, Keras and Seq2Seq
+  
+  - [Seq2seq](https://github.com/farizrahman4u/seq2seq) Sequence to Sequence Learning with Keras
+  
+  - [Keras Language Modeling](https://github.com/codekansas/keras-language-modeling) Some code for doing language modeling with Keras, in particular for question-answering tasks
+  
+  - [CNN for Sentence Classification in Keras](https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras) Simple Keras Implementation of "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)" (EMNLP 2014) 
+  
+  - [CNN for Classification](https://github.com/Shijihao/CNN_for_classification) Simple Pytorch Implementation of "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)" (EMNLP 2014) 
+
+
+<a name="text-similarity"></a>
+
+- Text Similarity
+  
+  - [Cilin and Hownet](https://github.com/yaleimeng/Final_word_Similarity) 综合了同义词词林扩展版与知网（Hownet）的词语相似度计算方法
+
+<a name="information-extraction"></a>
+
+- Information Extraction
+    
+  - [Open IE Papers](https://github.com/NPCai/Open-IE-Papers) This list containts OpenIE and ORE papers and resources
+  
+  - [关系抽取(分类)总结](http://shomy.top/2018/02/28/relation-extraction/) 对近几年(到2017)一些关系抽取/分类(Relation Extraction)的部分文献的一个简单总结
+
+  - [LM-LSTM-CRF](https://github.com/jia-zh/NLP-Resourcesss/blob/master/Information%20Extraction.md) PyTorch Implementation of "[Empower Sequence Labeling with Task-Aware Neural Language Model](http://arxiv.org/abs/1709.04109)" (AAAI 2018)
+  
+  - [Named Entity Realtion Extraction](https://github.com/twjiang/NamedEntity_realtion_extraction) 基于句法分析的命名实体关系抽取程序
+  
+  - [Pytorch Relation Extraction](https://github.com/ShomyLiu/pytorch-relation-extraction) Pytorch 复现 [PCNN + MIL (Zeng 2015)](http://aclweb.org/anthology/D/D15/D15-1203.pdf) 与 [PCNN + ATT (Lin 2016)](http://nlp.csai.tsinghua.edu.cn/~lyk/publications/acl2016_nre.pdf)
+  
+  - [Zh NER TF](https://github.com/fighting41love/zh-NER-TF) A very simple BiLSTM-CRF model for Chinese Named Entity Recognition 中文命名实体识别 (TensorFlow)
+  
+  - [BERT BiLSTM CRF NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning
+
+<a name="knowledge-graph"></a>
+
+- Knowledge Graph
+  
+  - [Agriculture KnowledgeGraph](https://github.com/cjm1044642385/Agriculture_KnowledgeGraph) 农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
+
+<a name="reading-comprehension"></a>
+
+- Reading Comprehension
+  
+  - [CMRC 2017](https://github.com/ymcui/cmrc2017) The First Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2017)
+  
+  - [CMRC 2018](https://github.com/ymcui/cmrc2018) The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC2018)
   
 ### NLP Blogs and Courses 博客和课程
   
@@ -213,7 +296,9 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [National Taiwan University NLP Lab](http://nlg.csie.ntu.edu.tw/)（台湾大学自然语言处理实验室）
 
-- 新加坡/日本/以色列/澳大利亚<a name="east-asia"></a>
+<a name="east-asia"></a>
+  
+- 新加坡/日本/以色列/澳大利亚
 
   - [NUS Natural Language Processing Group](http://www.comp.nus.edu.sg/~nlp/index.html)（新加坡国立大学自然语言处理组）
 
