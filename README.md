@@ -63,6 +63,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [FudanNLP](https://github.com/FudanNLP/fnlp)：中文NLP工具包、机器学习算法和数据集，支持**Java**，by 复旦
 
   - [Apache OpenNLP](https://github.com/FudanNLP/fnlp)：支持常见的NLP任务，比如分词、断句、词性标注、命名实体抽取、组块分析、解析和指代消解，支持**Java**，[官网](https://opennlp.apache.org/)
+    
+  - [Ansj Seg](https://github.com/NLPchina/ansj_seg) Ansj中文分词，支持**Java**
 
 
 <a name="small-tools"></a>
@@ -163,6 +165,7 @@ A useful list of NLP(Natural Language Processing) resources
   - [Ali Index Spyder](https://github.com/liuhuanyong/AliIndexSpyder) 阿里商品指数抓取，包括淘宝采购指数、淘宝供应指数、1688供应指数
   
 ### ML and DL 机器学习和深度学习
+- [《统计学习方法》](https://book.douban.com/subject/10590856/) ML经典书籍，值得反复读，从公式推导到定理证明逻辑严谨，by 李航 
 
 - [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
   
@@ -174,6 +177,8 @@ A useful list of NLP(Natural Language Processing) resources
 
 - [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 
+- [神经网络与深度学习](https://nndl.github.io/) 介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用，by 邱锡鹏
+  
 ### NLP Technology 自然语言处理相关技术
 
 <a name="bert-model"></a>
@@ -282,6 +287,12 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [CMRC 2018](https://github.com/ymcui/cmrc2018) The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC2018)
   
+<a name="qa-system"></a>
+
+- QA System
+  
+  - [AnyQ](https://github.com/baidu/AnyQ) FAQ-based Question Answering System by Baidu
+  
 <a name="knowledge-graph"></a>
 
 - Knowledge Graph
@@ -314,12 +325,30 @@ A useful list of NLP(Natural Language Processing) resources
   
 - NLP Courses 课程
 
-  - [斯坦福CS224d](http://cs224d.stanford.edu/syllabus.html)
+  - [Stanford CS224n Home](http://web.stanford.edu/class/cs224n/)
+
+  - [Stanford CS224d 2015年NLP课程](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)
   
+  - [Stanford CS224d 2016年NLP课程](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
+  
+  - [Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+      
   - [Oxford CS Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017)
   
   - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
+
+<a name="resources"></a>
   
+- Resources 资料
+
+  - [《数学之美》](https://book.douban.com/subject/10750155/) 生动形象，没有太多公式，属于科普性质，可以说是NLP入门必备，by 吴军
+
+  - [中文信息发展报告](https://cips-upload.bj.bcebos.com/cips2016.pdf) 中国中文信息学会2016年12月 发布的中文NLP总览报告，涵盖了中文和英文NLP主要的技术方向
+    
+  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin
+  
+  - [Deep Learning for Natural Language Processing](http://nlp.fudan.edu.cn/xpqiu/slides/20160618_DL4NLP@CityU.pdf) 深度学习在自然语言处理中的应用，by 邱锡鹏
+    
 ### NLP Organizations 学术组织
 ***排名不分先后，收集不全，欢迎完善***
 
