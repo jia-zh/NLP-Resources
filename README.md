@@ -127,6 +127,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) 中文常见人名、中文古代人名、日文人名、翻译人名、中文姓氏、中文称呼、成语词典
      
   - [中文简称词库](https://github.com/zhangyics/Chinese-abbreviation-dataset)
+    
+  - [Chinese Xinhua](https://github.com/pwxcoo/chinese-xinhua) 中华新华字典数据库，包括歇后语，成语，词语，汉字
          
   - [对联数据集](https://github.com/wb14123/couplet-dataset)
   
@@ -179,7 +181,9 @@ A useful list of NLP(Natural Language Processing) resources
 - Bert Model
   
   - [BERT](https://github.com/google-research/bert) TensorFlow code and pre-trained models for [BERT](https://arxiv.org/abs/1810.04805)
-    
+  
+  - [Awesome Bert](https://github.com/Jiakui/awesome-bert) bert nlp papers、applications and github resources
+  
   - [The Illustrated BERT, ELMo, and co](https://jalammar.github.io/illustrated-bert/) The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
   
   - [Bert as Service](https://github.com/hanxiao/bert-as-service) Using BERT model as a sentence encoding service, i.e. mapping a variable-length sentence to a fixed-length vector
