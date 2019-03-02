@@ -336,6 +336,10 @@ A useful list of NLP(Natural Language Processing) resources
   - [Oxford CS Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017)
   
   - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
+  
+  - [CS 229 Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) CS 229 课程整理
+  
+  - [CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) CS 230 课程整理
 
 <a name="resources"></a>
   
