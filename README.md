@@ -34,6 +34,7 @@ A useful list of NLP(Natural Language Processing) resources
   - [新加坡/日本/以色列/澳大利亚](#east-asia)
   - [北美地区](#north-america)
   - [欧洲地区](#europe)
+- [Reference](#reference)
   
   
 ### NLP-Toolkits 自然语言工具包
