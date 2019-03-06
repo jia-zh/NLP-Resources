@@ -345,6 +345,10 @@ A useful list of NLP(Natural Language Processing) resources
   - [CS 229 Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) CS 229 课程整理
   
   - [CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) CS 230 课程整理
+  
+  - [吴恩达机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记
+
+  - [吴恩达深度学习笔记](https://github.com/fengdu78/deeplearning_ai_books) 吴恩达老师的深度学习课程笔记及资源
 
 <a name="resources"></a>
   
