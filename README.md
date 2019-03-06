@@ -13,7 +13,6 @@ A useful list of NLP(Natural Language Processing) resources
 - [NLP Corpus 自然语言处理语料库](#nlp-corpus-自然语言处理语料库)
   - [Corpus Collection](#corpus-collection)
   - [Corpus Construction](#corpus-construction)
-- [ML and DL 机器学习和深度学习](#ml-and-dl-机器学习和深度学习)
 - [NLP Technology 自然语言处理相关技术](#nlp-technology-自然语言处理相关技术)
   - [Bert Model](#bert-model)
   - [Text Modeling](#text-modeling)
@@ -24,7 +23,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [Sequence Labeling](#sequence-labeling)
   - [Reading Comprehension](#reading-comprehension)
   - [Knowledge Graph](#knowledge-graph)
-- [NLP Blogs and Courses 博客和课程](#nlp-blogs-and-courses-博客和课程)
+- [Learning Materials 学习资料](#learning-materials-学习资料)
+  - [ML and DL 机器学习和深度学习](#ml-dl)
   - [NLP Blogs 博客](#nlp-blogs)
   - [NLP Courses 博客](#nlp-courses)
 - [NLP Organizations 学术组织](#nlp-organizations-学术组织)
@@ -167,21 +167,6 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Ali Index Spyder](https://github.com/liuhuanyong/AliIndexSpyder) 阿里商品指数抓取，包括淘宝采购指数、淘宝供应指数、1688供应指数
   
-### ML and DL 机器学习和深度学习
-- [《统计学习方法》](https://book.douban.com/subject/10590856/) ML经典书籍，值得反复读，从公式推导到定理证明逻辑严谨，by 李航 
-
-- [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
-  
-- [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use
-
-- [Awesome pytorch List](https://github.com/taki0112/Tensorflow-Cookbook) A comprehensive list of pytorch related content such as different models, implementations. helper libraries, tutorials etc.
-  
-- [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978) PyTorch代码的组织和结构设计
-
-- [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
-
-- [神经网络与深度学习](https://nndl.github.io/) 介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用，by 邱锡鹏
-  
 ### NLP Technology 自然语言处理相关技术
 
 <a name="bert-model"></a>
@@ -306,7 +291,29 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Person Relation Knowledge Graph](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph) 中文人物关系知识图谱项目，包括中文人物关系图谱构建、基于知识库的数据回标、基于远程监督与bootstrapping方法的人物关系抽取、基于知识图谱的知识问答等应用
   
-### NLP Blogs and Courses 博客和课程
+### Learning Materials 学习资料
+
+<a name="ml-dl"></a>
+  
+- ML and DL 机器学习和深度学习
+
+  - [《统计学习方法》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95_%E6%9D%8E%E8%88%AA.pdf) ML经典书籍，值得反复读，从公式推导到定理证明逻辑严谨，by 李航 
+
+  - [《机器学习》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf) 俗称西瓜书，机器学习入门必备，by 周志华 
+
+  - [《深度学习（中文版）》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E4%B8%AD%E6%96%87%E7%89%88%20.pdf) 是一本皆在帮助学生和从业人员进入机器学习领域的教科书，以开源的形式免费在网络上提供[Github](https://github.com/exacity/deeplearningbook-chinese)，由学界领军人物 Ian Goodfellow、Yoshua Bengio 和 Aaron Courville 合力打造  
+
+  - [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
+  
+  - [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use
+
+  - [Awesome pytorch List](https://github.com/taki0112/Tensorflow-Cookbook) A comprehensive list of pytorch related content such as different models, implementations. helper libraries, tutorials etc.
+  
+  - [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978) PyTorch代码的组织和结构设计
+
+  - [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
+
+  - [神经网络与深度学习](https://nndl.github.io/) 介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用，by 邱锡鹏
   
 <a name="nlp-blogs"></a>
   
@@ -354,7 +361,11 @@ A useful list of NLP(Natural Language Processing) resources
   
 - Resources 资料
 
-  - [《数学之美》](https://book.douban.com/subject/10750155/) 生动形象，没有太多公式，属于科普性质，可以说是NLP入门必备，by 吴军
+  - [《数学之美》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E_%E5%90%B4%E5%86%9B.pdf) 生动形象，没有太多公式，属于科普性质，可以说是NLP入门必备，by 吴军
+  
+  - [《统计自然语言处理》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%BA%8C%E7%89%88_%20%E5%AE%97%E6%88%90%E5%BA%86.pdf) 全面介绍了统计自然语言处理的基本概念、理论方法和最新研究进展，by 宗成庆
+  
+  - [《Neural Network Methods for Natural Language Proces》](https://github.com/jia-zh/NLP-Resources/blob/master/books/Neural%20Network%20Methods%20for%20Natural%20Language%20Proces_Yoav%20Goldberg.pdf) 利用神经网络的方法来进行自然语言处理任务，by Yoav Goldberg
 
   - [中文信息发展报告](https://cips-upload.bj.bcebos.com/cips2016.pdf) 中国中文信息学会2016年12月 发布的中文NLP总览报告，涵盖了中文和英文NLP主要的技术方向
     
