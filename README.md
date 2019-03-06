@@ -64,7 +64,9 @@ A useful list of NLP(Natural Language Processing) resources
   - [FudanNLP](https://github.com/FudanNLP/fnlp)：中文NLP工具包、机器学习算法和数据集，支持**Java**，by 复旦
 
   - [Apache OpenNLP](https://github.com/FudanNLP/fnlp)：支持常见的NLP任务，比如分词、断句、词性标注、命名实体抽取、组块分析、解析和指代消解，支持**Java**，[官网](https://opennlp.apache.org/)
-    
+
+  - [SnowNLP](https://github.com/isnowfy/snownlp) 中文分词、词性标注、情感分析、文本分类（NB）、拼音转换（Trie树）、简繁转换（Trie树）、关键词提取（TextRank）、摘要提取（TextRank算法）、tf、idf、Tokenization、文本相似（BM25）
+      
   - [Ansj Seg](https://github.com/NLPchina/ansj_seg) Ansj中文分词，支持**Java**
 
 
