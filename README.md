@@ -166,7 +166,9 @@ A useful list of NLP(Natural Language Processing) resources
   - [Baidu Index Spyder](https://github.com/liuhuanyong/BaiduIndexSpyder) 基于关键词的历时百度搜索指数自动采集
   
   - [Ali Index Spyder](https://github.com/liuhuanyong/AliIndexSpyder) 阿里商品指数抓取，包括淘宝采购指数、淘宝供应指数、1688供应指数
-  
+
+  - [通用新闻类网站分布式爬虫](https://github.com/liubo0621/distributed-spider) 可提取新闻标题、时间、作者、正文等信息
+    
 ### NLP Technology 自然语言处理相关技术
 
 <a name="bert-model"></a>
