@@ -176,7 +176,9 @@ A useful list of NLP(Natural Language Processing) resources
 <a name="bert-model"></a>
 
 - Bert Model
-  
+
+  - [从Word Embedding到Bert模型--自然语言处理预训练技术发展史](https://www.jiqizhixin.com/articles/2018-12-10-8) by 张俊林
+
   - [BERT](https://github.com/google-research/bert) TensorFlow code and pre-trained models for [BERT](https://arxiv.org/abs/1810.04805)
   
   - [Awesome Bert](https://github.com/Jiakui/awesome-bert) bert nlp papers、applications and github resources
