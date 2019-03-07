@@ -171,6 +171,8 @@ A useful list of NLP(Natural Language Processing) resources
     
 ### NLP Technology 自然语言处理相关技术
 
+- [NLP Progress](https://github.com/yuquanle/NLP-progress) Repository to track the progress in NLP, including the datasets and the current state-of-the-art for the most common NLP tasks.
+
 <a name="bert-model"></a>
 
 - Bert Model
