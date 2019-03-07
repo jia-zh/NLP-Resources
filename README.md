@@ -306,17 +306,25 @@ A useful list of NLP(Natural Language Processing) resources
   - [《深度学习（中文版）》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E4%B8%AD%E6%96%87%E7%89%88%20.pdf) 是一本皆在帮助学生和从业人员进入机器学习领域的教科书，以开源的形式免费在网络上提供[Github](https://github.com/exacity/deeplearningbook-chinese)，由学界领军人物 Ian Goodfellow、Yoshua Bengio 和 Aaron Courville 合力打造  
 
   - [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
-  
+
+  - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for Beginners with Latest APIs
+
   - [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use
 
   - [Awesome pytorch List](https://github.com/taki0112/Tensorflow-Cookbook) A comprehensive list of pytorch related content such as different models, implementations. helper libraries, tutorials etc.
   
   - [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978) PyTorch代码的组织和结构设计
 
+  - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) This repository provides tutorial code for deep learning researchers to learn PyTorch
+  
   - [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 
   - [神经网络与深度学习](https://nndl.github.io/) 介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用，by 邱锡鹏
   
+  - [吴恩达机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记
+
+  - [吴恩达深度学习笔记](https://github.com/fengdu78/deeplearning_ai_books) 吴恩达老师的深度学习课程笔记及资源
+    
 <a name="nlp-blogs"></a>
   
 - NLP Blogs 博客
@@ -355,9 +363,7 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) CS 230 课程整理
   
-  - [吴恩达机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记
-
-  - [吴恩达深度学习笔记](https://github.com/fengdu78/deeplearning_ai_books) 吴恩达老师的深度学习课程笔记及资源
+  - [NLP Course](https://github.com/yandexdataschool/nlp_course) YSDA course in Natural Language Processing
 
 <a name="resources"></a>
   
