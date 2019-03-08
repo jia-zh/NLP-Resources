@@ -330,7 +330,9 @@ A useful list of NLP(Natural Language Processing) resources
   - [吴恩达机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记
 
   - [吴恩达深度学习笔记](https://github.com/fengdu78/deeplearning_ai_books) 吴恩达老师的深度学习课程笔记及资源
-    
+
+  - [Machine Learning Yearning](https://github.com/xiaqunfeng/machine-learning-yearning) 吴恩达老师根据自己多年实践经验整理出来的一本机器学习、深度学习实践经验宝典，重点不在于机器学习算法理论基础，而在于实践中使机器学习算法的实战经验
+      
 <a name="nlp-blogs"></a>
   
 - NLP Blogs 博客
