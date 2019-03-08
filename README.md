@@ -53,7 +53,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [jieba](https://github.com/fxsjy/jieba)：结巴中文分词，做最好的 **Python** 中文分词组件，现已覆盖几乎所有的语言和系统
 
-  - [NLPIR](https://github.com/NLPIR-team/NLPIR)：**Java** 分词组件，by 中科院/北理工
+  - [NLPIR](https://github.com/NLPIR-team/NLPIR)：**Java** 分词组件，by 中科院/北理工， [PyNLPIR](https://github.com/tsroten/pynlpir/blob/develop/docs/tutorial.rst) for **Python**
 
   - [HanLP](https://github.com/hankcs/HanLP)：中文NLP模型与算法工具包，支持**Java & Python**，by 上海林原信息科技有限公司
 
@@ -222,7 +222,9 @@ A useful list of NLP(Natural Language Processing) resources
   - [Similarity Compute](https://github.com/liuhuanyong/SentenceSimilarity) 基于同义词词林，知网，指纹，字词向量，向量空间模型的句子相似度计算
   
   - [Siamese Sentence Similarity](https://github.com/liuhuanyong/SiameseSentenceSimilarity) 基于Siamese bilstm模型的相似句子判定模型，提供训练数据集和测试数据集
-   
+
+  - [SentenceSim](https://github.com/fssqawj/SentenceSim)，中文短文句相似度计算方法，包括基于知网、Onehot、word2vec、哈工大SDP及多个算法的融合以及LSTM算法
+     
 <a name="text-disambiguation"></a>
 
 - Text Disambiguation
@@ -396,7 +398,7 @@ A useful list of NLP(Natural Language Processing) resources
   
 - 中国大陆地区高校/研究所
 
-  - [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh)[Github](https://github.com/thunlp)
+  - [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh) ，   [实验室Github](https://github.com/thunlp)
 
   - [智能技术与系统国家重点实验室信息检索课题组](http://www.thuir.cn/)
 
