@@ -145,7 +145,9 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Synonyms](https://github.com/huyingxi/Synonyms) 中文近义词工具包
 
-  - [Chinese NLP Corpus](https://github.com/liuhuanyong/ChineseNLPCorpus) 中文自然语言处理的语料集合，包括语义词、领域共时、历时语料库、评测语料库等
+  - [Chinese NLP Corpus](https://github.com/liuhuanyong/ChineseNLPCorpus) 中文自然语言处理的语料集合，包括语义词、领域共识、历时语料库、评测语料库等
+
+  - [CEC-Corpus](https://github.com/shijiebei2009/CEC-Corpus) 中文突发事件语料库（Chinese Emergency Corpus）
       
   - [NLP太难了系列](https://github.com/fighting41love/hardNLU)
 
