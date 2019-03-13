@@ -1,4 +1,4 @@
-# NLP-Resources
+# NLP Resources
 [![](https://img.shields.io/badge/update-anytime-success.svg)](https://github.com/jia-zh/NLP-Resources)
   
 A useful list of NLP(Natural Language Processing) resources 
