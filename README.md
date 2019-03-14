@@ -15,7 +15,7 @@ A useful list of NLP(Natural Language Processing) resources
   - [Corpus Construction](#corpus-construction)
 - [NLP Technology 自然语言处理相关技术](#nlp-technology-自然语言处理相关技术)
   - [Bert Model](#bert-model)
-  - [Text Modeling](#text-modeling)
+  - [Text Modeling and Analysis](#text-modeling-and-analysis)
   - [Text Similarity](#text-similarity)
   - [Text Disambiguation](#text-disambiguation)
   - [Information Extraction](#information-extraction)
@@ -199,9 +199,9 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [BERT Chinese NER](https://github.com/ProHiryu/bert-chinese-ner) 使用预训练语言模型BERT做中文NER
 
-<a name="text-modeling"></a>
+<a name="text-modeling-and-analysis"></a>
 
-- Text Modeling
+- Text Modeling and Analysis
   
   - [Self Attention Mechanism](https://github.com/roomylee/self-attentive-emb-tf) Simple Tensorflow Implementation of "[A Structured Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130)" (ICLR 2017) 
   
@@ -214,6 +214,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [CNN for Sentence Classification in Keras](https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras) Simple Keras Implementation of "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)" (EMNLP 2014) 
   
   - [CNN for Classification](https://github.com/Shijihao/CNN_for_classification) Simple Pytorch Implementation of "[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)" (EMNLP 2014) 
+  
+  - [Awesome NLP Sentiment Analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis) 情感分析领域相关的数据集、论文、开源实现
   
 <a name="text-similarity"></a>
 
