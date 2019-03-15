@@ -302,6 +302,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [Agriculture Knowledge Graph](https://github.com/cjm1044642385/Agriculture_KnowledgeGraph) 农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
   
   - [Person Relation Knowledge Graph](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph) 中文人物关系知识图谱项目，包括中文人物关系图谱构建、基于知识库的数据回标、基于远程监督与bootstrapping方法的人物关系抽取、基于知识图谱的知识问答等应用
+
+  - [Awesome Knowledge Graph](https://github.com/husthuke/awesome-knowledge-graph) 整理知识图谱相关学习资料，提供系统化的知识图谱学习路径。
   
 ### Learning Materials 学习资料
 
