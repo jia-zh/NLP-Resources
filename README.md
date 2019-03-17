@@ -15,8 +15,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [Corpus Construction](#corpus-construction)
 - [Learning Materials 学习资料](#learning-materials-学习资料)
   - [深度学习框架](#dl-f)
-  - [ML Resources 机器学习书籍与资料](#ml-resources)
-  - [NLP Resources NLP书籍与资料](#nlp-resources)
+  - [ML Resources 机器学习书籍与资料](#ml-books-resources)
+  - [NLP Resources NLP书籍与资料](#nlp-books-resources)
   - [Blogs and Courses 博客和课程](#blogs-courses)
 - [NLP Technology 自然语言处理相关技术](#nlp-technology-自然语言处理相关技术)
   - [Bert Model](#bert-model)
@@ -185,7 +185,7 @@ A useful list of NLP(Natural Language Processing) resources
   
   - Pytorch [官方文档](https://github.com/pytorch/pytorch)，[中文文档](https://pytorch.apachecn.org/#/)，[例子](https://github.com/yunjey/pytorch-tutorial)，[资源](https://github.com/bharathgs/Awesome-pytorch-list)，[PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978)，[Awesome Pytorch List](https://github.com/bharathgs/Awesome-pytorch-list)，[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
-<a name="ml-resources"></a>
+<a name="ml-books-resources"></a>
 
 - ML Resources 机器学习书籍与资料
 
@@ -205,7 +205,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [Machine Learning Yearning](https://github.com/xiaqunfeng/machine-learning-yearning) 吴恩达老师根据自己多年实践经验整理出来的一本机器学习、深度学习实践经验宝典，重点不在于机器学习算法理论基础，而在于实践中使机器学习算法的实战经验
 
-<a name="nlp-resources"></a>
+<a name="nlp-books-resources"></a>
   
 - NLP Resources NLP书籍与资料
 
