@@ -24,9 +24,10 @@ A useful list of NLP(Natural Language Processing) resources
   - [Reading Comprehension](#reading-comprehension)
   - [Knowledge Graph](#knowledge-graph)
 - [Learning Materials 学习资料](#learning-materials-学习资料)
-  - [ML and DL 机器学习和深度学习](#ml-dl)
-  - [NLP Blogs 博客](#nlp-blogs)
-  - [NLP Courses 博客](#nlp-courses)
+  - [深度学习框架](#dl-f)
+  - [ML Resources 机器学习书籍与资料](#ml-resources)
+  - [NLP Resources NLP书籍与资料](#nlp-resources)
+  - [Blogs and Courses 博客和课程](#blogs-courses)
 - [NLP Organizations 学术组织](#nlp-organizations-学术组织)
   - [中国大陆地区高校/研究所](#china-school)
   - [中国大陆地区企业](#china-company)
@@ -170,7 +171,75 @@ A useful list of NLP(Natural Language Processing) resources
   - [Ali Index Spyder](https://github.com/liuhuanyong/AliIndexSpyder) 阿里商品指数抓取，包括淘宝采购指数、淘宝供应指数、1688供应指数
 
   - [通用新闻类网站分布式爬虫](https://github.com/liubo0621/distributed-spider) 可提取新闻标题、时间、作者、正文等信息
+
+### Learning Materials 学习资料
+  
+<a name="dl-f"></a>
+
+- 深度学习框架
+
+  - Keras [官方文档](https://github.com/keras-team/keras)，[中文文档](https://keras-cn.readthedocs.io/en/latest/)，[例子](https://github.com/keras-team/keras/tree/master/examples)
+  
+  - Tensorflow [官方文档](https://github.com/tensorflow/tensorflow)，[中文文档](http://www.tensorfly.cn/)，[中文教程](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial)，[例子](https://github.com/aymericdamien/TensorFlow-Examples)， [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)
+  
+  - Pytorch [官方文档](https://github.com/pytorch/pytorch)，[中文文档](https://pytorch.apachecn.org/#/)，[例子](https://github.com/yunjey/pytorch-tutorial)，[资源](https://github.com/bharathgs/Awesome-pytorch-list)，[PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978)，[Awesome Pytorch List](https://github.com/bharathgs/Awesome-pytorch-list)，[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+
+<a name="ml-resources"></a>
+
+- ML Resources 机器学习书籍与资料
+
+  - [《统计学习方法》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95_%E6%9D%8E%E8%88%AA.pdf) ML经典书籍，值得反复读，从公式推导到定理证明逻辑严谨，by 李航 
+
+  - [《机器学习》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf) 俗称西瓜书，机器学习入门必备，by 周志华 
+
+  - [《深度学习（中文版）》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E4%B8%AD%E6%96%87%E7%89%88%20.pdf) 是一本皆在帮助学生和从业人员进入机器学习领域的教科书，以开源的形式免费在网络上提供[Github](https://github.com/exacity/deeplearningbook-chinese)，由学界领军人物 Ian Goodfellow、Yoshua Bengio 和 Aaron Courville 合力打造  
+  
+  - [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
+
+  - [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
+
+  - [神经网络与深度学习](https://nndl.github.io/) 介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用，by 邱锡鹏
+  
+  - 吴恩达老师课程学习笔记：[机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)、[深度学习笔记](https://github.com/fengdu78/deeplearning_ai_books)
+
+  - [Machine Learning Yearning](https://github.com/xiaqunfeng/machine-learning-yearning) 吴恩达老师根据自己多年实践经验整理出来的一本机器学习、深度学习实践经验宝典，重点不在于机器学习算法理论基础，而在于实践中使机器学习算法的实战经验
+
+<a name="nlp-resources"></a>
+  
+- NLP Resources NLP书籍与资料
+
+  - [《数学之美》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E_%E5%90%B4%E5%86%9B.pdf) 生动形象，没有太多公式，属于科普性质，可以说是NLP入门必备，by 吴军
+  
+  - [《统计自然语言处理》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%BA%8C%E7%89%88_%20%E5%AE%97%E6%88%90%E5%BA%86.pdf) 全面介绍了统计自然语言处理的基本概念、理论方法和最新研究进展，by 宗成庆
+  
+  - [《Neural Network Methods for Natural Language Proces》](https://github.com/jia-zh/NLP-Resources/blob/master/books/Neural%20Network%20Methods%20for%20Natural%20Language%20Proces_Yoav%20Goldberg.pdf) 利用神经网络的方法来进行自然语言处理任务，by Yoav Goldberg
+
+  - [中文信息发展报告](https://cips-upload.bj.bcebos.com/cips2016.pdf) 中国中文信息学会2016年12月 发布的中文NLP总览报告，涵盖了中文和英文NLP主要的技术方向
     
+  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin
+  
+  - [Deep Learning for Natural Language Processing](http://nlp.fudan.edu.cn/xpqiu/slides/20160618_DL4NLP@CityU.pdf) 深度学习在自然语言处理中的应用，by 邱锡鹏
+
+<a name="blogs-courses"></a>
+  
+- Blogs and Courses 博客和课程
+
+  - NLP 中文博客：[52NLP](http://www.52nlp.cn/)、[码农场](http://www.hankcs.com/)、[剑指汉语自然语言处理](https://blog.csdn.net/FontThrone/column/info/16265)
+  
+  - NLP 英文博客：[Natural Language Processing Blog](https://nlpers.blogspot.com/)、[Language Log](http://languagelog.ldc.upenn.edu/nll/)、[Jay Alammar](http://jalammar.github.io/)
+
+  - AI 博客：[Google AI Blog](https://ai.googleblog.com/)
+
+  - Stanford NLP Courses：[Stanford CS224n Home](http://web.stanford.edu/class/cs224n/)、[Stanford CS224d 2015年NLP课程](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)、[Stanford CS224d 2016年NLP课程](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)、[Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+      
+  - Oxford NLP Courses：[Oxford CS Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017)
+
+  - Stanford ML/DL Courses：[CS 229 Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)、[CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+  
+  - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
+
+  - [NLP Course](https://github.com/yandexdataschool/nlp_course) YSDA course in Natural Language Processing
+      
 ### NLP Technology 自然语言处理相关技术
 
 - [NLP Progress](https://github.com/yuquanle/NLP-progress) Repository to track the progress in NLP, including the datasets and the current state-of-the-art for the most common NLP tasks.
@@ -306,96 +375,6 @@ A useful list of NLP(Natural Language Processing) resources
   - [Person Relation Knowledge Graph](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph) 中文人物关系知识图谱项目，包括中文人物关系图谱构建、基于知识库的数据回标、基于远程监督与bootstrapping方法的人物关系抽取、基于知识图谱的知识问答等应用
 
   - [Awesome Knowledge Graph](https://github.com/husthuke/awesome-knowledge-graph) 整理知识图谱相关学习资料，提供系统化的知识图谱学习路径。
-  
-### Learning Materials 学习资料
-
-<a name="ml-dl"></a>
-  
-- ML and DL 机器学习和深度学习
-
-  - [《统计学习方法》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95_%E6%9D%8E%E8%88%AA.pdf) ML经典书籍，值得反复读，从公式推导到定理证明逻辑严谨，by 李航 
-
-  - [《机器学习》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf) 俗称西瓜书，机器学习入门必备，by 周志华 
-
-  - [《深度学习（中文版）》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E4%B8%AD%E6%96%87%E7%89%88%20.pdf) 是一本皆在帮助学生和从业人员进入机器学习领域的教科书，以开源的形式免费在网络上提供[Github](https://github.com/exacity/deeplearningbook-chinese)，由学界领军人物 Ian Goodfellow、Yoshua Bengio 和 Aaron Courville 合力打造  
-
-  - [Machine Learning](https://github.com/wepe/MachineLearning) 一些常见的机器学习算法的实现代码
-
-  - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for Beginners with Latest APIs
-
-  - [Tensorflow Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use
-
-  - [Awesome pytorch List](https://github.com/taki0112/Tensorflow-Cookbook) A comprehensive list of pytorch related content such as different models, implementations. helper libraries, tutorials etc.
-  
-  - [PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978) PyTorch代码的组织和结构设计
-
-  - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) This repository provides tutorial code for deep learning researchers to learn PyTorch
-  
-  - [Deep Learning 500 Questions](https://github.com/scutan90/DeepLearning-500-questions) 以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
-
-  - [神经网络与深度学习](https://nndl.github.io/) 介绍神经网络与深度学习中的基础知识、主要模型（卷积神经网络、递归神经网络等）以及在计算机视觉、自然语言处理等领域的应用，by 邱锡鹏
-  
-  - [吴恩达机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记
-
-  - [吴恩达深度学习笔记](https://github.com/fengdu78/deeplearning_ai_books) 吴恩达老师的深度学习课程笔记及资源
-
-  - [Machine Learning Yearning](https://github.com/xiaqunfeng/machine-learning-yearning) 吴恩达老师根据自己多年实践经验整理出来的一本机器学习、深度学习实践经验宝典，重点不在于机器学习算法理论基础，而在于实践中使机器学习算法的实战经验
-      
-<a name="nlp-blogs"></a>
-  
-- NLP Blogs 博客
-
-  - [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
-  
-  - [hankcs 码农场](http://www.hankcs.com/)
-
-  - [剑指汉语自然语言处理](https://blog.csdn.net/FontThrone/column/info/16265)
-
-  - [natural language processing blog](https://nlpers.blogspot.com/)
-
-  - [Google AI Blog](https://ai.googleblog.com/)
-  
-  - [Language Log](http://languagelog.ldc.upenn.edu/nll/)
-
-  - [Jay Alammar](http://jalammar.github.io/)
-  
-<a name="nlp-courses"></a>
-  
-- NLP Courses 课程
-
-  - [Stanford CS224n Home](http://web.stanford.edu/class/cs224n/)
-
-  - [Stanford CS224d 2015年NLP课程](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)
-  
-  - [Stanford CS224d 2016年NLP课程](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
-  
-  - [Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-      
-  - [Oxford CS Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017)
-  
-  - [Gt NLP Class CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)
-  
-  - [CS 229 Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) CS 229 课程整理
-  
-  - [CS 230 Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) CS 230 课程整理
-  
-  - [NLP Course](https://github.com/yandexdataschool/nlp_course) YSDA course in Natural Language Processing
-
-<a name="resources"></a>
-  
-- Resources 资料
-
-  - [《数学之美》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E_%E5%90%B4%E5%86%9B.pdf) 生动形象，没有太多公式，属于科普性质，可以说是NLP入门必备，by 吴军
-  
-  - [《统计自然语言处理》](https://github.com/jia-zh/NLP-Resources/blob/master/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%BA%8C%E7%89%88_%20%E5%AE%97%E6%88%90%E5%BA%86.pdf) 全面介绍了统计自然语言处理的基本概念、理论方法和最新研究进展，by 宗成庆
-  
-  - [《Neural Network Methods for Natural Language Proces》](https://github.com/jia-zh/NLP-Resources/blob/master/books/Neural%20Network%20Methods%20for%20Natural%20Language%20Proces_Yoav%20Goldberg.pdf) 利用神经网络的方法来进行自然语言处理任务，by Yoav Goldberg
-
-  - [中文信息发展报告](https://cips-upload.bj.bcebos.com/cips2016.pdf) 中国中文信息学会2016年12月 发布的中文NLP总览报告，涵盖了中文和英文NLP主要的技术方向
-    
-  - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin
-  
-  - [Deep Learning for Natural Language Processing](http://nlp.fudan.edu.cn/xpqiu/slides/20160618_DL4NLP@CityU.pdf) 深度学习在自然语言处理中的应用，by 邱锡鹏
     
 ### NLP Organizations 学术组织
 ***排名不分先后，收集不全，欢迎完善***
