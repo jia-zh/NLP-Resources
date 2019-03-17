@@ -388,26 +388,26 @@ A useful list of NLP(Natural Language Processing) resources
   
 - 中国大陆地区高校/研究所
 
-  - [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh) ，   [实验室Github](https://github.com/thunlp)
-
-  - [智能技术与系统国家重点实验室信息检索课题组](http://www.thuir.cn/)
-
-  - [北京大学计算语言学教育部重点实验室](http://klcl.pku.edu.cn/)
-
-  - [北京大学计算语言所](http://icl.pku.edu.cn/)
-
-  - [北京大学计算机科学技术研究所语言计算与互联网挖掘研究室](http://59.108.48.12/lcwm/index.php?title=%E9%A6%96%E9%A1%B5)
-
   - [中科院计算所自然语言处理研究组](http://nlp.ict.ac.cn/index_zh.php)
 
   - [中科院自动化所自然语言处理研究组](http://nlp.ict.ac.cn/index_zh.php)
 
   - [中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/homepage/)
 
+  - [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh) ，   [实验室Github](https://github.com/thunlp)
+  
+  - [智能技术与系统国家重点实验室信息检索课题组](http://www.thuir.cn/)
+
+  - [北京大学计算语言学教育部重点实验室](http://klcl.pku.edu.cn/)
+  
+  - [北京大学计算语言所](http://icl.pku.edu.cn/)
+
+  - [北京大学计算机科学技术研究所语言计算与互联网挖掘研究室](http://59.108.48.12/lcwm/index.php?title=%E9%A6%96%E9%A1%B5)
+
   - [哈工大社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
 
   - [哈工大智能技术与自然语言处理实验室](http://insun.hit.edu.cn/main.htm)
-
+  
   - [哈工大机器智能与翻译研究室](http://mitlab.hit.edu.cn/)
 
   - [复旦大学自然语言处理研究组](http://nlp.fudan.edu.cn/)
