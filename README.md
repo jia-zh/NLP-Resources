@@ -7,7 +7,7 @@ A useful list of NLP(Natural Language Processing) resources
   
   
 ## Contents
-- [NLP Toolkits 自然语言工具包](#nlp-toolkit-自然语言工具包)
+- [NLP Toolkits 自然语言工具包](#nlp-toolkits-自然语言工具包)
   - [Toolkits](#toolkits)
   - [Small Tools](#small-tools)
 - [NLP Corpus 自然语言处理语料库](#nlp-corpus-自然语言处理语料库)
