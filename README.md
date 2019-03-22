@@ -157,6 +157,8 @@ A useful list of NLP(Natural Language Processing) resources
   
 - Corpus Construction
   
+  - [Python模拟登陆](https://github.com/CriseLYJ/awesome-python-login-model) Python模拟登陆一些大型网站
+
   - [Baidu Baike Spider](https://github.com/jia-zh/Baidu-Baike-Spider) 基于Python的百度百科词条爬取
   
   - [Sina Weibo Spider](https://github.com/jia-zh/Sina-Weibo-Spider) 基于Java的新浪微博采集
@@ -170,6 +172,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [Baidu Index Spyder](https://github.com/liuhuanyong/BaiduIndexSpyder) 基于关键词的历时百度搜索指数自动采集
   
   - [Ali Index Spyder](https://github.com/liuhuanyong/AliIndexSpyder) 阿里商品指数抓取，包括淘宝采购指数、淘宝供应指数、1688供应指数
+
+  - [新闻搜索引擎新闻爬取](https://github.com/jia-zh/News-Spider) 基于Scrapy框架的新闻搜索引擎爬虫，支持百度新闻、搜狗新闻、新浪新闻、360新闻和新华社搜索新闻。
 
   - [通用新闻类网站分布式爬虫](https://github.com/liubo0621/distributed-spider) 可提取新闻标题、时间、作者、正文等信息
 
