@@ -189,6 +189,8 @@ A useful list of NLP(Natural Language Processing) resources
   
   - Pytorch [官方文档](https://github.com/pytorch/pytorch)，[中文文档](https://pytorch.apachecn.org/#/)，[例子](https://github.com/yunjey/pytorch-tutorial)，[资源](https://github.com/bharathgs/Awesome-pytorch-list)，[PyTorch实战指南](https://zhuanlan.zhihu.com/p/29024978)，[Awesome Pytorch List](https://github.com/bharathgs/Awesome-pytorch-list)，[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
+  - [如何用flask部署pytorch模型](https://zhuanlan.zhihu.com/p/35879835) 可延伸到其他深度学习模型的REST API部署
+  
 <a name="ml-books-resources"></a>
 
 - ML Resources 机器学习书籍与资料
@@ -333,6 +335,8 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Text Grapher](https://github.com/liuhuanyong/TextGrapher) 对文档进行关键信息提取，进行结构化，并组织成图谱组织形式，形成对文章语义信息的图谱化展示
   
+  - [从零开始构建知识图谱](https://zhuanlan.zhihu.com/c_1018901137012928512) 知识图谱构建的知乎专栏
+  
   - [Text Info Exp](https://github.com/Roshanson/TextInfoExp) TF-IDF、文本分类、聚类、词向量、情感识别、关系抽取等
 
 <a name="text-generation"></a>
@@ -368,6 +372,8 @@ A useful list of NLP(Natural Language Processing) resources
 - QA System
   
   - [AnyQ](https://github.com/baidu/AnyQ) FAQ-based Question Answering System by Baidu
+
+  - [基于知识库的问答：seq2seq模型实践](https://zhuanlan.zhihu.com/p/34585912) 基于知识库的问答具体实现，[Github地址](https://github.com/wavewangyue/kbqa)
   
 <a name="knowledge-graph"></a>
 
