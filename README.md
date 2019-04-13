@@ -594,11 +594,11 @@ A useful list of NLP(Natural Language Processing) resources
     
 ### Reference
 有部分资源来自于以下工作，在此表示感谢：
-
-- [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
   
 - [FunNLP](https://github.com/fighting41love/funNLP)  
-  
+
+- [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
+
 - [国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553) 
 
 同时，对相关工作的作者一并表示感谢！
