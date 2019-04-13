@@ -149,6 +149,8 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [Chinese NLP Corpus](https://github.com/liuhuanyong/ChineseNLPCorpus) 中文自然语言处理的语料集合，包括语义词、领域共识、历时语料库、评测语料库等
 
+  - [Chinese-Xinhua](https://github.com/pwxcoo/chinese-xinhua) 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+
   - [CEC-Corpus](https://github.com/shijiebei2009/CEC-Corpus) 中文突发事件语料库（Chinese Emergency Corpus）
       
   - [NLP太难了系列](https://github.com/fighting41love/hardNLU)
@@ -591,8 +593,12 @@ A useful list of NLP(Natural Language Processing) resources
     
     
 ### Reference
+有部分资源来自于以下工作，在此表示感谢：
+
 - [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
   
 - [FunNLP](https://github.com/fighting41love/funNLP)  
   
 - [国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553) 
+
+同时，对相关工作的作者一并表示感谢！
