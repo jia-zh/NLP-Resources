@@ -229,6 +229,8 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Deep Learning for Natural Language Processing](http://nlp.fudan.edu.cn/xpqiu/slides/20160618_DL4NLP@CityU.pdf) 深度学习在自然语言处理中的应用，by 邱锡鹏
 
+  - [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484) 刘知远老师推荐NLP入门推荐参考书目
+  
 <a name="blogs-courses"></a>
   
 - Blogs and Courses 博客和课程
