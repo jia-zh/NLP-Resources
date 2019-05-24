@@ -398,6 +398,10 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [详解自下而上构建知识图谱全过程](http://www.4u4v.net/xiang-jie-zi-xia-er-shang-gou-jian-zhi-shi-tu-pu-quan-guo-cheng.html?from=timeline) 自底向上构建知识图谱的全过程
 
+  - [中文知识图谱API与工具、科研机构与算法框架](https://blog.csdn.net/sinat_26917383/article/details/66473253) 中国国内中文知识图谱API、工具、科研机构与算法框架的总结
+
+  - [知识图谱的价值和应用](http://www.woshipm.com/it/1088237.html) 从**产品经理的角度**分析知识图谱的价值和应用
+    
 <a name="relation-extraction"></a>
 
 - Relation Extraction
