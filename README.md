@@ -29,6 +29,7 @@ A useful list of NLP(Natural Language Processing) resources
   - [Reading Comprehension](#reading-comprehension)
   - [QA System](#qa-system)
   - [Knowledge Graph](#knowledge-graph)
+  - [Relation Extraction](#relation-extraction)
 - [NLP Organizations 学术组织](#nlp-organizations-学术组织)
   - [中国大陆地区高校/研究所](#china-school)
   - [中国大陆地区企业](#china-company)
@@ -383,6 +384,8 @@ A useful list of NLP(Natural Language Processing) resources
 
 - Knowledge Graph
   
+  - [知识图谱技术与应用指南](https://www.jiqizhixin.com/articles/2018-06-20-4) 这是一份通俗易懂的知识图谱技术与应用指南
+
   - [Slides About Knowledge Graph](https://pan.baidu.com/s/1zS8Yye88bk7yAbQnyBdr0Q) 收集整理的知识图谱相关的Slides，[百度网盘链接](https://pan.baidu.com/s/1zS8Yye88bk7yAbQnyBdr0Q) 
 百度网盘提取码：z5yb
   - [Agriculture Knowledge Graph](https://github.com/cjm1044642385/Agriculture_KnowledgeGraph) 农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
@@ -390,7 +393,17 @@ A useful list of NLP(Natural Language Processing) resources
   - [Person Relation Knowledge Graph](https://github.com/liuhuanyong/PersonRelationKnowledgeGraph) 中文人物关系知识图谱项目，包括中文人物关系图谱构建、基于知识库的数据回标、基于远程监督与bootstrapping方法的人物关系抽取、基于知识图谱的知识问答等应用
 
   - [Awesome Knowledge Graph](https://github.com/husthuke/awesome-knowledge-graph) 整理知识图谱相关学习资料，提供系统化的知识图谱学习路径。
-    
+
+  - [知识库构建前沿：自动和半自动知识提取](http://blog.sina.com.cn/s/blog_4caedc7a0102ewpj.html) by 微软亚洲研究院主管研究员 史树明
+
+  - [详解自下而上构建知识图谱全过程](http://www.4u4v.net/xiang-jie-zi-xia-er-shang-gou-jian-zhi-shi-tu-pu-quan-guo-cheng.html?from=timeline) 自底向上构建知识图谱的全过程
+
+<a name="relation-extraction"></a>
+
+- Relation Extraction
+
+  - [关系抽取(分类)总结](http://shomy.top/2018/02/28/relation-extraction/) 关系抽取的解释、数据集介绍及2013-2017经典工作的总结
+        
 ### NLP Organizations 学术组织
 ***排名不分先后，收集不全，欢迎完善***
 
