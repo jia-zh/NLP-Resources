@@ -371,7 +371,9 @@ A useful list of NLP(Natural Language Processing) resources
   - [CMRC 2018](https://github.com/ymcui/cmrc2018) The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC2018)
   
   - [Neural Reading Comprehension and Beyond](https://stacks.stanford.edu/file/druid:gd576xb1833/thesis-augmented.pdf) Danqi Chen（陈丹琦）博士毕业论文
-  
+
+  - [教机器学习阅读](http://rsarxiv.github.io/2016/06/18/%E6%95%99%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%98%85%E8%AF%BB/) 机器阅读理解的综述文章，系统地总结和对比了相关paper
+    
 <a name="qa-system"></a>
 
 - QA System
