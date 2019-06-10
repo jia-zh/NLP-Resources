@@ -265,7 +265,9 @@ A useful list of NLP(Natural Language Processing) resources
   - [BERT](https://github.com/google-research/bert) TensorFlow code and pre-trained models for [BERT](https://arxiv.org/abs/1810.04805)
   
   - [Awesome Bert](https://github.com/Jiakui/awesome-bert) bert nlp papers、applications and github resources
-  
+
+  - [Awesome Bert NLP](https://github.com/cedrickchee/awesome-bert-nlp) A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning.
+
   - [The Illustrated BERT, ELMo, and co](https://jalammar.github.io/illustrated-bert/) The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
   
   - [Bert as Service](https://github.com/hanxiao/bert-as-service) Using BERT model as a sentence encoding service, i.e. mapping a variable-length sentence to a fixed-length vector
@@ -279,6 +281,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [BERT BiLSTM CRF NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning
 
   - [BERT Chinese NER](https://github.com/ProHiryu/bert-chinese-ner) 使用预训练语言模型BERT做中文NER
+
+  - [Bert时代的创新：Bert在NLP各领域的应用进展](https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247505634&idx=1&sn=34e163b399a3fcb9a899cb72aeef1bab&chksm=e99ee51bdee96c0d17695cfd83e5dbcc8467f3d3358c87461416c69d13473c775afbb29405ea&scene=0&xtrack=1&key=bf2c15454a31549f7efad466960381ace4531a8648d45603d0e2893798103f134bf9d3f013fdeb0c21f6adcb6ce9237c839319e061b05c6eb654d3b144f86baa247573af3a6987c1cb066363866b1002&ascene=1&uin=MTMzMDA4OTIwNA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=7qlKhPwlxXpE4z4zXH0cuqMVe4ktrt44xeFP0NC9tq3S7IKqcvXwX37pVvqrioUV) by 张俊林
 
 <a name="text-modeling-and-analysis"></a>
 
