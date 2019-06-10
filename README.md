@@ -87,7 +87,8 @@ A useful list of NLP(Natural Language Processing) resources
   
   - [Query Correction](https://github.com/liuhuanyong/QueryCorrection) 基于用户词表，采用拼音相似度与编辑距离进行查询纠错
 
-  
+  - [Matplotlib 可视化最有价值的 50 个图表](http://mob.dataguru.cn/mportal.php?mod=view&aid=14479)
+
 ### NLP Corpus 自然语言处理语料库
 
 <a name="corpus-collection"></a>
@@ -232,6 +233,8 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484) 刘知远老师推荐NLP入门推荐参考书目
   
+  - [nlp](https://github.com/duoergun0729/nlp) 一本开源的NLP入门书籍
+
 <a name="blogs-courses"></a>
   
 - Blogs and Courses 博客和课程
@@ -255,6 +258,8 @@ A useful list of NLP(Natural Language Processing) resources
 ### NLP Technology 自然语言处理相关技术
 
 - [NLP Progress](https://github.com/yuquanle/NLP-progress) Repository to track the progress in NLP, including the datasets and the current state-of-the-art for the most common NLP tasks.
+
+  - [关于NLP和机器学习之文本处理的你需要知道的一切](https://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247495751&idx=1&sn=f2fd87880418e994f5503c426185e9a0&chksm=e9e1f9ccde9670dad7a7cbc7cbd557fbf589c241a391af9a7afbb43899ee1bb1f2a91bf9f026&mpshare=1&scene=1&srcid=#rd) 自然语言处理和机器学习中常见的文本预处理方法
 
 <a name="bert-model"></a>
 
