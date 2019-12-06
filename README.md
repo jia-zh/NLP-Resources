@@ -40,7 +40,7 @@ A useful list of NLP(Natural Language Processing) resources
 - [Reference](#reference)
   
   
-### NLP-Toolkits 自然语言工具包
+## NLP-Toolkits 自然语言工具包
 
 <a name="toolkits"></a>
   
@@ -89,7 +89,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [Matplotlib 可视化最有价值的 50 个图表](http://mob.dataguru.cn/mportal.php?mod=view&aid=14479)
 
-### NLP Corpus 自然语言处理语料库
+## NLP Corpus 自然语言处理语料库
 
 <a name="corpus-collection"></a>
   
@@ -181,7 +181,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [通用新闻类网站分布式爬虫](https://github.com/liubo0621/distributed-spider) 可提取新闻标题、时间、作者、正文等信息
 
-### Learning Materials 学习资料
+## Learning Materials 学习资料
   
 <a name="dl-f"></a>
 
@@ -255,7 +255,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [NLP Course](https://github.com/yandexdataschool/nlp_course) YSDA course in Natural Language Processing
       
-### NLP Technology 自然语言处理相关技术
+## NLP Technology 自然语言处理相关技术
 
 - [NLP Progress](https://github.com/yuquanle/NLP-progress) Repository to track the progress in NLP, including the datasets and the current state-of-the-art for the most common NLP tasks.
 
@@ -419,7 +419,7 @@ A useful list of NLP(Natural Language Processing) resources
 
   - [关系抽取(分类)总结](http://shomy.top/2018/02/28/relation-extraction/) 关系抽取的解释、数据集介绍及2013-2017经典工作的总结
         
-### NLP Organizations 学术组织
+## NLP Organizations 学术组织
 ***排名不分先后，收集不全，欢迎完善***
 
 - [ACL Anthology](https://aclanthology.info/)
@@ -622,7 +622,7 @@ A useful list of NLP(Natural Language Processing) resources
     
     
     
-### Reference
+## Reference
 有部分资源来自于以下工作，在此表示感谢：
   
 - [FunNLP](https://github.com/fighting41love/funNLP)  
