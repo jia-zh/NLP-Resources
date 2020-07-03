@@ -161,6 +161,8 @@ A useful list of NLP(Natural Language Processing) resources
   
 - Corpus Construction
   
+  - [Opencc Python](https://github.com/yichen0831/opencc-python) Python简繁转换
+  
   - [Python模拟登陆](https://github.com/CriseLYJ/awesome-python-login-model) Python模拟登陆一些大型网站
 
   - [Baidu Baike Spider](https://github.com/jia-zh/Baidu-Baike-Spider) 基于Python的百度百科词条爬取
