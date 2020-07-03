@@ -55,6 +55,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [LTP](https://github.com/HIT-SCIR/ltp)：[语言技术平台](http://ltp.ai/)，中文NLP工具，支持**Java & Python**，by 哈工大
 
   - [jieba](https://github.com/fxsjy/jieba)：结巴中文分词，做最好的 **Python** 中文分词组件，现已覆盖几乎所有的语言和系统
+  
+  - [fast jieba](https://github.com/deepcs233/jieba_fast)：使用cpython重写了jieba分词库中计算DAG和HMM中的vitrebi函数，速度得到大幅提升。
 
   - [NLPIR](https://github.com/NLPIR-team/NLPIR)：**Java** 分词组件，by 中科院/北理工， [PyNLPIR](https://github.com/tsroten/pynlpir/blob/develop/docs/tutorial.rst) for **Python**
 
@@ -162,6 +164,8 @@ A useful list of NLP(Natural Language Processing) resources
 - Corpus Construction
   
   - [Opencc Python](https://github.com/yichen0831/opencc-python) Python简繁转换
+  
+  - [Pinyin Python](https://github.com/mozillazg/python-pinyin) 汉字拼音转换工具（Python 版）
   
   - [Python模拟登陆](https://github.com/CriseLYJ/awesome-python-login-model) Python模拟登陆一些大型网站
 
@@ -414,6 +418,8 @@ A useful list of NLP(Natural Language Processing) resources
   - [中文知识图谱API与工具、科研机构与算法框架](https://blog.csdn.net/sinat_26917383/article/details/66473253) 中国国内中文知识图谱API、工具、科研机构与算法框架的总结
 
   - [知识图谱的价值和应用](http://www.woshipm.com/it/1088237.html) 从**产品经理的角度**分析知识图谱的价值和应用
+  
+  - [军事知识图谱及问答](https://github.com/liuhuanyong/QAonMilitaryKG) 基于mongodb存储的军事领域知识图谱问答项目，包括飞行器、太空装备等8大类，100余小类，共计5800项的军事武器知识库，
     
 <a name="relation-extraction"></a>
 
