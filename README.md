@@ -97,8 +97,6 @@ A useful list of NLP(Natural Language Processing) resources
   
 - Corpus Collection
 
-https://github.com/SimmerChan/corpus
-
   - [中文 Wikipedia Dump](https://dumps.wikimedia.org/zhwiki/)
   
   - [NLP语料集合](https://github.com/SimmerChan/corpus) 自然语言处理，知识图谱相关语料。按照Task细分
